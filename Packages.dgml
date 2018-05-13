@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph GraphDirection="LeftToRight" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="MDMUtils" Label="MDMUtils" Category="Project" />
+    <Node Id="MoreLinq.Source.MoreEnumerable 1.1.1" Label="MoreLinq.Source.MoreEnumerable 1.1.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.Acquire 1.0.1" Label="MoreLinq.Source.MoreEnumerable.Acquire 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.AssertCount 1.0.1" Label="MoreLinq.Source.MoreEnumerable.AssertCount 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.Batch 1.0.1" Label="MoreLinq.Source.MoreEnumerable.Batch 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.Concat 1.0.1" Label="MoreLinq.Source.MoreEnumerable.Concat 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.Consume 1.0.1" Label="MoreLinq.Source.MoreEnumerable.Consume 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.DistinctBy 1.0.0" Label="MoreLinq.Source.MoreEnumerable.DistinctBy 1.0.0" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.EquiZip 1.0.1" Label="MoreLinq.Source.MoreEnumerable.EquiZip 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.ExceptBy 1.0.0" Label="MoreLinq.Source.MoreEnumerable.ExceptBy 1.0.0" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.Fold 1.1.1" Label="MoreLinq.Source.MoreEnumerable.Fold 1.1.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.ForEach 1.0.1" Label="MoreLinq.Source.MoreEnumerable.ForEach 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.Generate 1.0.2" Label="MoreLinq.Source.MoreEnumerable.Generate 1.0.2" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.GenerateByIndex 1.0.1" Label="MoreLinq.Source.MoreEnumerable.GenerateByIndex 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.GroupAdjacent 1.0.1" Label="MoreLinq.Source.MoreEnumerable.GroupAdjacent 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.Index 1.0.1" Label="MoreLinq.Source.MoreEnumerable.Index 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.MaxBy 1.0.1" Label="MoreLinq.Source.MoreEnumerable.MaxBy 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.MinBy 1.0.1" Label="MoreLinq.Source.MoreEnumerable.MinBy 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.Pad 1.0.1" Label="MoreLinq.Source.MoreEnumerable.Pad 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.Pairwise 1.0.1" Label="MoreLinq.Source.MoreEnumerable.Pairwise 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.Pipe 1.0.1" Label="MoreLinq.Source.MoreEnumerable.Pipe 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.Prepend 1.0.1" Label="MoreLinq.Source.MoreEnumerable.Prepend 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.PreScan 1.0.1" Label="MoreLinq.Source.MoreEnumerable.PreScan 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.Scan 1.0.1" Label="MoreLinq.Source.MoreEnumerable.Scan 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.SingleOrFallback 1.0.1" Label="MoreLinq.Source.MoreEnumerable.SingleOrFallback 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.SkipUntil 1.0.1" Label="MoreLinq.Source.MoreEnumerable.SkipUntil 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.Split 1.0.1" Label="MoreLinq.Source.MoreEnumerable.Split 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.TakeEvery 1.0.1" Label="MoreLinq.Source.MoreEnumerable.TakeEvery 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.TakeLast 1.0.2" Label="MoreLinq.Source.MoreEnumerable.TakeLast 1.0.2" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.TakeUntil 1.0.1" Label="MoreLinq.Source.MoreEnumerable.TakeUntil 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.ToDataTable 1.0.0" Label="MoreLinq.Source.MoreEnumerable.ToDataTable 1.0.0" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.ToDelimitedString 1.1.1" Label="MoreLinq.Source.MoreEnumerable.ToDelimitedString 1.1.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.ToHashSet 1.0.0" Label="MoreLinq.Source.MoreEnumerable.ToHashSet 1.0.0" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.Trace 1.0.1" Label="MoreLinq.Source.MoreEnumerable.Trace 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.Zip 1.0.1" Label="MoreLinq.Source.MoreEnumerable.Zip 1.0.1" Category="Package" />
+    <Node Id="MoreLinq.Source.MoreEnumerable.ZipLongest 1.0.1" Label="MoreLinq.Source.MoreEnumerable.ZipLongest 1.0.1" Category="Package" />
+  </Nodes>
+  <Links>
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Acquire 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.AssertCount 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Batch 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Concat 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Consume 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.DistinctBy 1.0.0" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.EquiZip 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.ExceptBy 1.0.0" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Fold 1.1.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.ForEach 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Generate 1.0.2" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.GenerateByIndex 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.GroupAdjacent 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Index 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.MaxBy 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.MinBy 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Pad 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Pairwise 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Pipe 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Prepend 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.PreScan 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Scan 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.SingleOrFallback 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.SkipUntil 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Split 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.TakeEvery 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.TakeLast 1.0.2" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.TakeUntil 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.ToDataTable 1.0.0" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.ToDelimitedString 1.1.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.ToHashSet 1.0.0" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Trace 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Zip 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.ZipLongest 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Acquire 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.AssertCount 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Batch 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Concat 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Consume 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.EquiZip 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Fold 1.1.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.ForEach 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Generate 1.0.2" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.GenerateByIndex 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.GroupAdjacent 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Index 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.MaxBy 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.MinBy 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Pad 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Pairwise 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Pipe 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Prepend 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.PreScan 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Scan 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.SingleOrFallback 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.SkipUntil 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Split 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.TakeEvery 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.TakeLast 1.0.2" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.TakeUntil 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.ToDelimitedString 1.1.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Trace 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Zip 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable 1.1.1" Target="MoreLinq.Source.MoreEnumerable.ZipLongest 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable.Concat 1.0.1" Target="MoreLinq.Source.MoreEnumerable.Prepend 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable.Concat 1.0.1" Target="MoreLinq.Source.MoreEnumerable.Prepend 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable.Concat 1.0.1" Target="MoreLinq.Source.MoreEnumerable.Prepend 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable.Fold 1.1.1" Target="MoreLinq.Source.MoreEnumerable.AssertCount 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable.Fold 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Index 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable.Fold 1.1.1" Target="MoreLinq.Source.MoreEnumerable.AssertCount 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable.Fold 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Index 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable.Fold 1.1.1" Target="MoreLinq.Source.MoreEnumerable.AssertCount 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable.Fold 1.1.1" Target="MoreLinq.Source.MoreEnumerable.Index 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable.Trace 1.0.1" Target="MoreLinq.Source.MoreEnumerable.Pipe 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable.Trace 1.0.1" Target="MoreLinq.Source.MoreEnumerable.Pipe 1.0.1" Category="Package Dependency" />
+    <Link Source="MoreLinq.Source.MoreEnumerable.Trace 1.0.1" Target="MoreLinq.Source.MoreEnumerable.Pipe 1.0.1" Category="Package Dependency" />
+    <Link Source="MDMUtils" Target="MoreLinq.Source.MoreEnumerable 1.1.1" Category="Installed Package" />
+  </Links>
+  <Categories>
+    <Category Id="Project" />
+    <Category Id="Package" />
+  </Categories>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Project" ValueLabel="True">
+      <Condition Expression="HasCategory('Project')" />
+      <Setter Property="Background" Value="Blue" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Package Dependency" ValueLabel="True">
+      <Condition Expression="HasCategory('Package Dependency')" />
+      <Setter Property="Background" Value="Yellow" />
+    </Style>
+  </Styles>
+</DirectedGraph>
